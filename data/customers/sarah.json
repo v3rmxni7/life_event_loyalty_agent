@@ -1,0 +1,90 @@
+{
+  "customer_id": "SARAH_99",
+  "profile": {
+    "age_range": "25-35",
+    "loyalty_tier": "Gold",
+    "points_balance": 12450,
+    "clubs": ["Wine Lovers Club"],
+    "join_date": "2022-06-14"
+  },
+  "purchase_history": {
+    "month_1": [
+      {
+        "item": "Merlot Wine",
+        "category": "Alcohol",
+        "price": 18.5
+      },
+      {
+        "item": "Brie Cheese",
+        "category": "Luxury",
+        "price": 9.2
+      },
+      {
+        "item": "Sushi Platter",
+        "category": "Raw_Food",
+        "price": 15.0
+      },
+      {
+        "item": "Espresso Coffee",
+        "category": "Caffeine",
+        "price": 6.5
+      }
+    ],
+    "month_2": [
+      {
+        "item": "Red Wine",
+        "category": "Alcohol",
+        "price": 17.0
+      },
+      {
+        "item": "Soft Cheese",
+        "category": "Luxury",
+        "price": 8.8
+      },
+      {
+        "item": "Craft Beer",
+        "category": "Alcohol",
+        "price": 5.5
+      }
+    ],
+    "month_3": [
+      {
+        "item": "Ginger Ale",
+        "category": "Comfort",
+        "price": 4.2
+      },
+      {
+        "item": "Saltine Crackers",
+        "category": "Comfort",
+        "price": 3.1
+      },
+      {
+        "item": "Prenatal Vitamins",
+        "category": "Health",
+        "price": 12.0
+      },
+      {
+        "item": "Decaf Coffee",
+        "category": "Staples",
+        "price": 5.8
+      },
+      {
+        "item": "Unscented Body Lotion",
+        "category": "Health",
+        "price": 7.0
+      }
+    ]
+  },
+  "feedback": [
+    {
+      "date": "2026-01-05",
+      "channel": "survey",
+      "text": "Carrying grocery bags has become really hard lately."
+    },
+    {
+      "date": "2026-01-12",
+      "channel": "support",
+      "text": "I wish you offered home delivery for loyal customers."
+    }
+  ]
+}

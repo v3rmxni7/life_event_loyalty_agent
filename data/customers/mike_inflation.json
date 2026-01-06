@@ -1,0 +1,32 @@
+{
+  "customer_id": "MIKE_204",
+  "profile": {
+    "loyalty_tier": "Silver",
+    "points_balance": 1240,
+    "clubs": ["Weekly_Shoppers"]
+  },
+  "purchase_history": {
+    "month_1": [
+      { "item": "Organic Chicken Breast", "category": "Premium_Food" },
+      { "item": "Imported Olive Oil", "category": "Premium_Food" },
+      { "item": "Branded Breakfast Cereal", "category": "Branded_Grocery" },
+      { "item": "Craft Beer Pack", "category": "Alcohol" }
+    ],
+    "month_2": [
+      { "item": "Organic Chicken Breast", "category": "Premium_Food" },
+      { "item": "Imported Olive Oil", "category": "Premium_Food" },
+      { "item": "Branded Snacks", "category": "Branded_Grocery" }
+    ],
+    "month_3": [
+      { "item": "Store Brand Chicken", "category": "Staples" },
+      { "item": "Bulk Rice Bag", "category": "Staples" },
+      { "item": "Store Brand Cooking Oil", "category": "Staples" },
+      { "item": "Value Pack Pasta", "category": "Staples" }
+    ]
+  },
+  "feedback": [
+    {
+      "text": "Prices have gone up everywhere lately. Trying to keep grocery bills under control."
+    }
+  ]
+}

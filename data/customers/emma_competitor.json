@@ -1,0 +1,30 @@
+{
+  "customer_id": "EMMA_27",
+  "profile": {
+    "loyalty_tier": "Silver",
+    "points_balance": 620,
+    "clubs": []
+  },
+  "purchase_history": {
+    "month_1": [
+      { "item": "Fresh Pasta Meal Kit", "category": "Ready Meals" },
+      { "item": "Cold Brew Coffee", "category": "Beverages" },
+      { "item": "Protein Snack Bar", "category": "Snacks" },
+      { "item": "Sparkling Water 6-Pack", "category": "Beverages" }
+    ],
+    "month_2": [
+      { "item": "Fresh Salad Bowl", "category": "Ready Meals" },
+      { "item": "Iced Latte", "category": "Beverages" },
+      { "item": "Granola Snack Pack", "category": "Snacks" }
+    ],
+    "month_3": [
+      { "item": "Milk", "category": "Staples" },
+      { "item": "Bread", "category": "Staples" }
+    ]
+  },
+  "feedback": [
+    {
+      "text": "I’ve been ordering groceries more often from apps that deliver faster."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Alcohol": ["Wine", "Beer", "Spirits"],
+  "Raw_Food": ["Sushi", "Raw Fish", "Sashimi"],
+  "Luxury": ["Premium Cheese", "Brie", "Gourmet Snacks"],
+  "Caffeine": ["Espresso Coffee", "Energy Drinks", "Cold Brew"],
+  "Comfort": ["Crackers", "Ginger Ale", "Digestive Biscuits"],
+  "Health": ["Prenatal Vitamins", "Multivitamins", "Unscented Lotion"],
+  "Staples": ["Milk", "Bread", "Rice", "Decaf Coffee"]
+}

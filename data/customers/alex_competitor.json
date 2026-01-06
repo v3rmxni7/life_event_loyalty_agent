@@ -1,0 +1,27 @@
+{
+  "customer_id": "ALEX_551",
+  "profile": {
+    "loyalty_tier": "Gold",
+    "points_balance": 4860,
+    "clubs": ["Wine_Lovers", "Premium_Shoppers"]
+  },
+  "purchase_history": {
+    "month_1": [
+      { "item": "Red Wine Selection", "category": "Alcohol" },
+      { "item": "Artisan Cheese", "category": "Luxury_Food" },
+      { "item": "Gourmet Ready Meals", "category": "Premium_Food" }
+    ],
+    "month_2": [
+      { "item": "Red Wine Selection", "category": "Alcohol" },
+      { "item": "Artisan Cheese", "category": "Luxury_Food" }
+    ],
+    "month_3": [
+      { "item": "Red Wine Selection", "category": "Alcohol" }
+    ]
+  },
+  "feedback": [
+    {
+      "text": "Another store nearby has better weekly offers on similar products."
+    }
+  ]
+}
